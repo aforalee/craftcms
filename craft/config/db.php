@@ -13,13 +13,13 @@ return array(
 	'server' => 'localhost',
 
 	// The name of the database to select.
-	'database' => '',
+	'database' => 'craftcms',
 
 	// The database username to connect with.
-	'user' => 'root',
+	'user' => 'craftcms',
 
 	// The database password to connect with.
-	'password' => '',
+	'password' => 'craftcms',
 
 	// The prefix to use when naming tables. This can be no more than 5 characters.
 	'tablePrefix' => 'craft',
